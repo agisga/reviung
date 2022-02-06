@@ -1,0 +1,4 @@
+The .svg and .dxf files for laser cutting are based on pcb-top-plate-rev1.kicad_pcb:
+- originally svg files were exported from Kicad via File > Plot.
+- I used the Bmask layer, but ticked the option to include edge cuts on all layers when exporting svg with the Plot function.
+- Then I modified the svg by hand in Inkscape, and saved as dxf.
